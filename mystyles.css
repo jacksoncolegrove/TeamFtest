@@ -1,9 +1,8 @@
-/* Simplified CSS with scrollable layout */
 body {
     margin: 0;
     padding: 20px;
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #dfdfdf;
     min-height: 100vh;
     overflow-y: scroll;
 }
@@ -12,6 +11,7 @@ body {
     text-align: center;
     color: #ff00ff;
 }
+
 
 .profile-card {
     width: 80%;
@@ -61,7 +61,7 @@ body {
 
     color: #ff00ff;
     font-size: 20px;
-
+    font-weight: bold;
     margin-top: 20px;
 }
 
